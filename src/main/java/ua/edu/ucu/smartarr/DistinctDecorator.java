@@ -1,8 +1,6 @@
 package ua.edu.ucu.smartarr;
 
 
-import com.sun.deploy.perf.DefaultPerfHelper;
-
 import java.util.Arrays;
 
 // Remove duplicates from SmartArray. Use method equals() to compare objects
